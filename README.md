@@ -1,2 +1,2 @@
-# ruby_recursion
+# ruby-recursion
 Recursion exercises in Ruby.
